@@ -1,0 +1,15 @@
+Hello #connections
+I would like yo share my Project which I had made under the guidance of bhavesh bansal sir at Pepcoding Education Private Limited.
+
+Project- Excel Clone
+Tech used:- JAVASCRIPT, HTML5, CSS3.
+About Project:-
+This Excel clone have many functionalities like original Excel :-
+We have formatting section i.e fill color, text color, change alignment ,text size, font and can cut ,copy, paste.
+Formula bar makes everything more attarctive.
+And also we can rename/delete sheet and add new sheet.
+Also we can save our sheet and open the saved sheet.
+
+GITHUB LINK:-https://lnkd.in/dPKBQmU
+
+#pepcoding #excelclone #css #javascript #html
