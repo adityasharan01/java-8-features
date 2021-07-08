@@ -1,0 +1,23 @@
+https://www.linkedin.com/posts/yogesh-chavan97_javascript-reactjs-webdevelopment-activity-6817679763604348928-IaQ4
+
+Have you ever struggled with the "the port is already in use" error while starting the application?
+
+A lot of times when we are using multiple applications or forget to stop the previous process, we get the "the port is already in use" error.
+
+Then we try to find the process using that port and then kill it or maybe restart the machine.
+
+There is an easier way to do it. Just run the following command in your terminal/command prompt:
+
+npx kill-port port_number
+
+and the process using that port will be killed.
+
+For example,
+
+npx kill-port 3000
+
+will kill the process using port 3000.
+
+To kill multiple ports pass the ports separated by space
+
+npx kill-port 3000 5000 7000
