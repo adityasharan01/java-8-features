@@ -1,0 +1,44 @@
+Show your passion.
+
+Talk about your projects. Talk about struggles. Show your confidence in building them.
+
+Talk about your learnings, show that you have always been craving to learn it.
+
+Talk about failures. Tell them that those were the opportunities that made you what you are today.
+
+No certification/award can beat that zeal to learn and affection towards building things.
+
+Nothing has helped me more than being genuinely passionate about my profession.
+
+Next time when you walk into that interview room. Try it!
+
+
+https://www.linkedin.com/posts/yogesh-chavan97_javascript-reactjs-webdevelopment-activity-6818391941227573248-Xy2p
+
+Do you know that you can quickly delete all the 𝗻𝗼𝗱𝗲_𝗺𝗼𝗱𝘂𝗹𝗲𝘀 folders from your system to free up some space?
+
+When we do npm install or yarn install a node_modules folder is created which takes a lot of space and we never bother about deleting those folders.
+
+We can always regenerate those folders so it's good to delete those which are not needed.
+
+Just execute the following command from the terminal from inside the folder where all your projects are stored.
+
+npx npkill
+
+It will list out all the node_modules folders from the current folder and its subfolders.
+
+Then you can navigate through the list by pressing up and down arrow keys and just press spacebar to delete a particular node_modules folder.
+
+Manually deleting the node_modules folder takes a lot of time. But using npkill is very fast. You just hit the spacebar and the folder is instantly deleted.
+
+If you don't want to use the npx command, you can install the npkill npm package globally using
+
+npm install -g npkill
+
+and then just run npkill command from the terminal.
+
+Just give it a try. You will love it. It's a great way to free up your disk space 🙂
+
+𝗖𝗵𝗲𝗰𝗸 𝗼𝘂𝘁 𝗺𝘆 𝗮𝗿𝘁𝗶𝗰𝗹𝗲 𝗹𝗶𝗻𝗸 𝗶𝗻 𝘁𝗵𝗲 𝗰𝗼𝗺𝗺𝗲𝗻𝘁 𝘁𝗼 𝗹𝗲𝗮𝗿𝗻 𝗺𝗼𝗿𝗲 𝗮𝗯𝗼𝘂𝘁 𝗶𝘁.
+
+#javascript #reactjs #webdevelopment
