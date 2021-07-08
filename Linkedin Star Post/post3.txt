@@ -1,0 +1,18 @@
+𝗮𝘀𝘆𝗻𝗰/𝗮𝘄𝗮𝗶𝘁 𝗮𝗿𝗲 𝗶𝗺𝗽𝗼𝗿𝘁𝗮𝗻𝘁 𝗰𝗼𝗻𝗰𝗲𝗽𝘁𝘀 𝗶𝗻 𝗺𝗼𝗱𝗲𝗿𝗻 𝗝𝗮𝘃𝗮𝘀𝗰𝗿𝗶𝗽𝘁 𝘁𝗼 𝗵𝗮𝗻𝗱𝗹𝗲 𝗮𝘀𝘆𝗻𝗰𝗵𝗿𝗼𝗻𝗼𝘂𝘀 𝗼𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝘀 𝗹𝗶𝗸𝗲 𝗺𝗮𝗸𝗶𝗻𝗴 𝗮 𝗔𝗣𝗜 𝗰𝗮𝗹𝗹.
+
+𝗛𝗼𝘄 𝗜𝘁 𝗪𝗼𝗿𝗸𝘀 ?
+
+1. We need to always declare a asynchronous function to use await inside it.
+
+2. asynchronous functions always returns a promise.
+
+3. This async function need to have atleast one await keyword inside it. ( You can use as many await you want ).
+
+4. When program reaches await keyword its wait for the task to complete till then it does not execute lines after await and it starts executing outside the function till response is received.
+
+5. Here in example , we returns users array from function but as it always returns a promise so we need to resolve it using then().
+
+𝗪𝗲 𝘂𝘀𝗲 𝗮𝘀𝘆𝗻𝗰 𝗮𝘄𝗮𝗶𝘁 𝘁𝗼 𝗺𝗮𝗸𝗲 𝗼𝘂𝗿 𝗰𝗼𝗱𝗲 𝗲𝗮𝘀𝘆 𝘁𝗼 𝘂𝗻𝗱𝗲𝗿𝘀𝘁𝗮𝗻𝗱 𝗮𝗻𝗱 𝗶𝘁𝘀 𝗹𝗼𝗼𝗸𝘀 𝗹𝗶𝗸𝗲 𝗻𝗼𝗿𝗺𝗮𝗹 𝗷𝗮𝘃𝗮𝘀𝗰𝗿𝗶𝗽𝘁 𝘀𝘆𝗻𝗰𝗵𝗿𝗼𝗻𝗼𝘂𝘀 𝗰𝗼𝗱𝗲.
+
+
+https://www.linkedin.com/posts/avinash-varpeti-4300b4172_javascripts-javascriptdeveloper-developerlife-activity-6817148645528375296-t_E5
