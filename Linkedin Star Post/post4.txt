@@ -1,0 +1,26 @@
+https://www.linkedin.com/posts/yogesh-chavan97_javascript-reactjs-webdevelopment-activity-6816217677267304448-Pylx
+
+💥 JavaScript Tip 💥
+
+Whenever you're declaring an array, always use the array literal syntax like this:
+
+const array = [10, 20, 30];
+
+This is faster and easier to understand.
+
+In contrast, when we declare an array like this:
+
+const array = new Array(10, 20, 30);
+
+It can create confusion because the above array creates an array with 3 elements 10, 20 and 30. But passing a single value to Array like this:
+
+const array = new Array(10);
+
+creates an array of 10 elements with empty values.
+
+You can alternatively use the ES6 Array.of method to create an array of specified values like this:
+
+const array = Array.of(10); // create an array containing value 10
+const array = Array.of(10, 20, 30); // create an array containing value 10, 20 and 30
+
+𝗖𝗵𝗲𝗰𝗸 𝗼𝘂𝘁 𝘁𝗵𝗲 𝗹𝗶𝗻𝗸 𝗶𝗻 𝘁𝗵𝗲 𝗰𝗼𝗺𝗺𝗲𝗻𝘁 𝘁𝗼 𝘀𝘂𝗯𝘀𝗰𝗿𝗶𝗯𝗲 𝘁𝗼 𝗺𝘆 𝘄𝗲𝗲𝗸𝗹𝘆 𝗻𝗲𝘄𝘀𝗹𝗲𝘁𝘁𝗲𝗿 𝗮𝗻𝗱 𝗴𝗲𝘁 𝗮𝗺𝗮𝘇𝗶𝗻𝗴 𝗰𝗼𝗻𝘁𝗲𝗻𝘁 𝗱𝗶𝗿𝗲𝗰𝘁𝗹𝘆 𝗶𝗻 𝘆𝗼𝘂𝗿 𝗶𝗻𝗯𝗼𝘅.
