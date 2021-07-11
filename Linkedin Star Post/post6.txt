@@ -1,0 +1,22 @@
+The New Javascript API to Access a User's Local Files💡💡
+
+The new File System API changes that and creates a secure way for us to change, edit and add files on a user's computer. That means we can finally write to a user's computer from a frontend Javascript file, as long as they give us permission...⚡⚡😎😎👌
+
+How does it work??
+There are three key functions we can use with the file systems API:
+
+👉window.showSaveFilePicker - which allows us to save a file to a user's computer, which we then have read/write access to.
+
+👉window.showOpenFilePicker - which allows us to open an existing file on a user's computer, which we can then read/write to.
+
+👉window.showDirectoryPicker - which gives us access to a directory, which we can then read/write to.
+
+These are all async compatible functions, so we can wait for a user's response to each before proceeding. If they respond by giving access via the browser's dialog boxes, then we can use the response to write directly to the user's disc...😀😀😀
+
+Let's look at an example. Below, we have a button which when the user clicks, will open a save file dialog. This dialog has a default suggested file name of 'Downloaded File.txt'.😎😎
+
+- Shankhadeep Bhadra
+
+#javascript #work #work #frontend #veujs #reactjs #nodejs
+
+https://www.linkedin.com/posts/shankhadeep-bhadra-a69a73b8_javascript-work-frontend-activity-6819259126233792512-dGyf
