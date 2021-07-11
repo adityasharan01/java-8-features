@@ -1,0 +1,16 @@
+Do you know that In JavaScript there is a very powerful and useful API that is useful in a variety of situations like
+
+1️⃣ Start or stop animation on scroll
+2️⃣ Lazy load images on scroll
+3️⃣ Automatically play or pause videos on scroll
+4️⃣ Identify when something is getting displayed or hidden from the viewport
+
+The API is known as Intersection Observer API.
+
+It's a very easy-to-use and much a powerful API.
+
+It's also well supported in all browsers.
+
+𝗖𝗵𝗲𝗰𝗸 𝗼𝘂𝘁 𝗺𝘆 𝗮𝗿𝘁𝗶𝗰𝗹𝗲 𝗹𝗶𝗻𝗸 𝗶𝗻 𝘁𝗵𝗲 𝗰𝗼𝗺𝗺𝗲𝗻𝘁 𝘁𝗼 𝘂𝗻𝗱𝗲𝗿𝘀𝘁𝗮𝗻𝗱 𝗵𝗼𝘄 𝘁𝗼 𝗲𝗮𝘀𝗶𝗹𝘆 𝗮𝗰𝗵𝗶𝗲𝘃𝗲 𝗮𝗹𝗹 𝘁𝗵𝗲 𝘁𝗵𝗶𝗻𝗴𝘀 𝗺𝗲𝗻𝘁𝗶𝗼𝗻𝗲𝗱 𝗮𝗯𝗼𝘃𝗲.
+
+https://levelup.gitconnected.com/what-is-so-special-about-intersection-observer-api-in-javascript-f2430a159fa7?source=friends_link&sk=08728e24f8b95d10d5215abde47a587e
