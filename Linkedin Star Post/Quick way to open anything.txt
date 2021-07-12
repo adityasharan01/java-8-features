@@ -1,0 +1,14 @@
+hm.new  --> new hASHNODE STORY
+REPO.NEW  --> NEW GITHUB REPOSITORY
+gist.new  --> new github gist
+cal.new --> calendar event
+link.new  --> bitly link
+story.new --> Medium Story
+docs.new --> google doc 
+sheets.new --> google spreadsheet
+slides.new  --> slide presentation 
+form.new  -> new google form 
+react.new --> new react codesandbox
+vue.new  --> new vue codesandbox
+ng.new  --> angular codesandbox
+playlist.new --> new spotify playlist
