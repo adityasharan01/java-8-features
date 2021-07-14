@@ -1,0 +1,17 @@
+Do you know that there is a very popular Node.js npm library with name multer using which you can upload a file of any type and any size?
+
+And there is a downloadjs npm library that allows you to download any type of file.
+
+By combining these two libraries you can create an application that easily allows you to upload and download any type of file.
+
+Check out my article link in the comment with step-by-step instructions for creating an application using these two libraries.
+
+You will also learn how to store extra data along with the file you're uploading inside the MongoDB database.
+
+The application also allows you to upload a file by just the drag and drop feature along with the preview of the uploaded image.
+
+For that, I'm using a very popular react-dropzone npm library.
+
+So check out the link in the comment to create full-stack file upload/download application using MERN(MongoDB, Express, React, Node.js) stack.
+
+Article Link:https://dev.to/myogeshchavan97/drag-and-drop-file-upload-with-image-preview-and-download-file-functionality-using-mern-stack-5dgn
