@@ -1,0 +1,24 @@
+🔥 JavaScript Tip 🔥
+
+In JavaScript, we normally use 𝗠𝗮𝘁𝗵.𝗳𝗹𝗼𝗼𝗿 method to get a value rounded to the number less than or equal to the provided number like this:
+
+𝘔𝘢𝘵𝘩.𝘧𝘭𝘰𝘰𝘳(𝟧.𝟥); // 𝘳𝘦𝘵𝘶𝘳𝘯𝘴 𝟧
+𝘔𝘢𝘵𝘩.𝘧𝘭𝘰𝘰𝘳(𝟩.𝟪); // 𝘳𝘦𝘵𝘶𝘳𝘯𝘴 𝟩
+
+But If the provided number is negative, the result is not what you might have expected as can be seen below:
+
+𝘔𝘢𝘵𝘩.𝘧𝘭𝘰𝘰𝘳(-𝟥.𝟦); // 𝘳𝘦𝘵𝘶𝘳𝘯s -𝟦 𝘪𝘯𝘴𝘵𝘦𝘢𝘥 𝘰𝘧 𝘺𝘰𝘶𝘳 𝘦𝘹𝘱𝘦𝘤𝘵𝘦𝘥 -𝟥
+
+This is because -4 is a smaller number than -3.
+
+So to fix this, ES6 has added 𝗠𝗮𝘁𝗵.𝘁𝗿𝘂𝗻𝗰 method using which you can get the expected result.
+
+𝘔𝘢𝘵𝘩.𝘵𝘳𝘶𝘯𝘤(𝟧.𝟥); // 𝘳𝘦𝘵𝘶𝘳𝘯𝘴 𝟧
+𝘔𝘢𝘵𝘩.𝘵𝘳𝘶𝘯𝘤(𝟩.𝟪); // 𝘳𝘦𝘵𝘶𝘳𝘯𝘴 𝟩
+𝘔𝘢𝘵𝘩.𝘵𝘳𝘶𝘯𝘤(-𝟥.𝟦); // 𝘳𝘦𝘵𝘶𝘳𝘯𝘴 -𝟥
+
+As you can see the 𝗠𝗮𝘁𝗵.𝘁𝗿𝘂𝗻𝗰 method truncates the part after the decimal point producing the expected value.
+
+So always use 𝗠𝗮𝘁𝗵.𝘁𝗿𝘂𝗻𝗰 method, If you want to get an integer with the decimal point removed otherwise use 𝗠𝗮𝘁𝗵.𝗳𝗹𝗼𝗼𝗿 method.
+
+𝗖𝗵𝗲𝗰𝗸 𝗼𝘂𝘁 𝘁𝗵𝗲 𝗹𝗶𝗻𝗸 𝗶𝗻 𝘁𝗵𝗲 𝗰𝗼𝗺𝗺𝗲𝗻𝘁 𝘁𝗼 𝘀𝘂𝗯𝘀𝗰𝗿𝗶𝗯𝗲 𝘁𝗼 𝗺𝘆 𝘄𝗲𝗲𝗸𝗹𝘆 𝗻𝗲𝘄𝘀𝗹𝗲𝘁𝘁𝗲𝗿 𝗮𝗻𝗱 𝗴𝗲𝘁 𝗮𝗺𝗮𝘇𝗶𝗻𝗴 𝗰𝗼𝗻𝘁𝗲𝗻𝘁 𝗱𝗶𝗿𝗲𝗰𝘁𝗹𝘆 𝗶𝗻 𝘆𝗼𝘂𝗿 𝗶𝗻𝗯𝗼𝘅.
