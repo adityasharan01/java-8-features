@@ -1,4 +1,4 @@
-jobs.github.com
+
 glassdoor.com
 indeed.com
 remoteok.io
