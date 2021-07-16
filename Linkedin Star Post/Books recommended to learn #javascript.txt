@@ -1,0 +1,9 @@
+Books recommended to learn #javascript as per your experience.
+
+Beginners - Javascript The good parts.
+Intermediate - Eloquent Javascript.
+Advanced - Professional JavaScript for Web Developers.
+
+I have read all three and they are excellent to master the language.
+
+#programming #webdevelopement #frontenddevelopment
