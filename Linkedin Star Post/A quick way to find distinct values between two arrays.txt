@@ -1,0 +1,9 @@
+const products1 = ["books","shoes","t-shirt","mobile","jackets"];
+
+const products2 = ["t-shirt", "mobile"];
+
+const filteredProducts = products1.filter(product => products2.indexOf(product) === -1);
+
+console.log(filteredProducts); // ["books", "shoes", "jackets"]
+
+Here, we're looping over the products1 using the filter method and in the callback function, we're checking if the products2 array contains the current element that we're looping over it using the array indexOf method.
