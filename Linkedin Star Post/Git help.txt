@@ -1,0 +1,47 @@
+Little info
+
+• Git
+Free and open source version control system
+
+• Version control
+Management of changes of code made at different intervals of time
+
+• Private key
+Private key is the mathematical proof that this key has generated the mentioned public key
+
+• GitHub
+Website to host repositories online
+
+Git commands
+
+• clone
+Bring a repository that is hosted somewhere remote be it on GitHub or bitBucket into a folder in your local machine
+
+• status
+Tells us the status of untracked changes
+
+• add
+Track your files and add changes in git to the staging area
+
+• commit
+Save your changes in git
+
+• push
+upload git commits to a remote repo, like GitHub or bitBucket
+
+• pull
+download changes from remote repo to the local machine
+
+• checkout
+changes the branch/ creates a new branch
+
+Example :-
+• git add [xyz/ .] {add changes of xyz/ all (if . is used) to the staging area}
+
+• git commit [-m "title" -m "short description"] (commits the change to git with the given title and description, optional to add title and desc)
+
+• git push origin master (origin is location of the git repo, master is the branch that we push to)
+
+• git remote -v (checks the connect remote git)
+
+• git checkout -b "xyz" (will create xyz branch, -b can be omitted if branch is already there)
