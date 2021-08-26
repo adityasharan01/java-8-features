@@ -1,0 +1,39 @@
+Service Based Company
+1. what is flat map?
+2. Rest Template change the configuration
+3. Scopes of Java beans
+4. Write a query to find max third highest salary.
+5. dependency injection?
+6. what is jvm, jdk?
+7. explain the runtime and compiletime
+8. Why spring boot?
+9. aws s3 and alternatives?
+10. what is security group
+11. what is tcp/udp?
+12. what is microservice architecture?
+13. what is primary key, canditate key?
+14. spring securtiy which class do u extend?
+15. what are advantages of microservices?
+
+
+Thomson Reuters
+
+1. Monolothic vs Microservices
+2. How do u invoke other microservices
+if microservice 1,2,3 depend on each other and microservice is down how do u handle?
+3. why spring boot?
+4. how do u change embedded tomcat?
+5. Write a program to count the number of times character repeated 
+6. Design a decorator design pattern
+7. Write code to validate username and employee id 
+8. diff bw request params and path variable
+9. What are types of repositories.
+10. Write the code to define jpa and crud rep for a class
+11. how do u save a object in jpa repository
+12. write a query to find the third max salary 
+13. what diff bw aws ec2 vs ami
+14. wht is ondemand vs spot instance
+15. what is default timeout of lambda function
+16. what is the default number of request in lambda 
+    what is signed url
+17. how many ways a lambda function can be invoked
